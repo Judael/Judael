@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Judael from ST JUDES CHURCH OF LOST CAUSES the world's first Business/Church which to this day has yet to make a profit, lol!
+- 👋 Hi, I’m @Judael from ST JUDES CHURCH OF LOST CAUSES the world's first Business/Church!
 - 👀 I'm interested in a Greener Earth!
 - 🌱 I’m currently learning how to be a Full-Stack Software Developer!
-- 💞️ I’m looking to collaborate with a network of like-minded individuals.
+- 💞️ I’m looking to collaborate with a network of like-minded individuals!
 - 📫 You can reach me @Judael at GitHub!
 
 <!---
